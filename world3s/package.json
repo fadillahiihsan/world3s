@@ -1,6 +1,7 @@
 {
   "name": "world3s",
   "version": "1.1.4",
+  "repository": "https://github.com/fadillahiihsan/world3s.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
